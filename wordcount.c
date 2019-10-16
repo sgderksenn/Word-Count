@@ -1,7 +1,7 @@
 /* wordcount.c
     CSC 111 - Fall 2019 - Assignment 4
 
-    Sydney Derksen/V00910431/2/10/19
+    Sydney Derksen/2/10/19
 
     This program is designed to count the characters, words, and lines of
     the input provided by the user.
